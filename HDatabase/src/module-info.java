@@ -1,0 +1,3 @@
+module heavybag {
+	requires junit;
+}
